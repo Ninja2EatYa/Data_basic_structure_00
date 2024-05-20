@@ -1,2 +1,4 @@
-print(len(str(3578)))
-print(type(str(3578)))
+number = 3578
+print(str(number))
+print(len(str(number)))
+print(type('number'))
